@@ -1,2 +1,3 @@
 # github-explorer
-dd
+
+A small repository explorer on Github!
